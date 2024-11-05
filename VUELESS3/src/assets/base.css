@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Oswald:wght@500&family=Roboto:ital,wght@0,100;0,400;1,300&display=swap');
+
+
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Abel;
+}
+
+
+.max-width {
+  max-width: 1240px;
+  margin-right: auto;
+  margin-left: auto;
+}
